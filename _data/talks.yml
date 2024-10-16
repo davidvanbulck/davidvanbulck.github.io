@@ -1,0 +1,27 @@
+talks:
+  - id: "bergen23"
+    title: "Instance Space Analysis"
+    author: ['David Van Bulck']
+    venue: "NHH Bergen"
+    location: "Norway"
+    month: "TODO:month,day"
+    year: 2023
+    type: "Invited Lecture"
+
+  - id: "dalarna23"
+    title: "Sports Timetabling"
+    author: ['David Van Bulck']
+    venue: "Dalarna University"
+    location: "Sweden"
+    month: "TODO:month,day"
+    year: 2023
+    type: "Invited Lecture"
+
+  - id: "udine22"
+    title: "Benders' Decomposition"
+    author: ['David Van Bulck']
+    venue: "University of Udine"
+    month: "TODO:month,day"
+    year: 2022
+    type: "Invited Lecture"
+    location: "Italy"

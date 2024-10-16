@@ -1,0 +1,47 @@
+{% include base_path %}
+
+{% assign years = site.data.edu.edu | group_by: "year" %}
+
+<table>
+  <tbody>
+  {% for y in years %}
+  {% for c in y.items %}
+    <tr>
+      {% if forloop.first == true %}
+        <td style="vertical-align: top;"><b>{{y.name}}</b></td>
+      {% else %}
+        <td></td>
+      {% endif %}
+      <td>
+          <i class="fas fa-chalkboard-teacher"></i>
+          <b>
+              <span class="pub-title">{{c.role}}</span>
+          </b>
+          <br>
+          {{ c.course }}
+          {% if c.programme -%}
+          , {{ c.programme }}
+          {%- endif -%}
+          @ {{ c.venue }}.
+          
+          {% if c.note -%}
+          <br>
+          <em> {{- c.note -}}. </em>
+          {%- endif -%}
+
+          {% if c.ects -%}
+          <div>
+            <a href="{{c.ects[1]}}">
+              <button class="ref-btn">
+                  <i class="fas fa-info-circle" style="color:#35798e"></i>
+                  {{ c.ects[0]}} - {{  c.ects[2] }} ECTS
+              </button>
+            </a>
+          </div>
+          {%- endif -%}
+      </td>
+    </tr>
+  {% endfor %}
+  {% endfor %}
+  </tbody>
+</table>

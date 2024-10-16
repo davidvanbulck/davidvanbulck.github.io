@@ -1,0 +1,16 @@
+chair:
+  - id: 'Fairness in Sports Workshop'
+    long-name: '3th Fairness in Sports Workshop'
+    eds: [
+            [2024, 'https://robinxval.ugent.be/FairnessInSports/'],
+         ]
+
+pc:
+  - id: 'International Conference on the Practice and Theory of Automated Timetabling (PATAT)'
+    years: [ 2024, 2022, 2020 ]
+
+journal: '4OR, Annals of Operations Research, Computers & Industrial Engineering, Computers & Operations Research, European Journal of Operational Research, Journal of Scheduling, Operational Research, Operations Research Letters, Sports Engineering, TOP'
+
+member: 'Belgian OR society (ORBEL), Institute for Operations Research and the Management Sciences (INFORMS), EURO working group OR in Sports, EURO working group on Automated Timetabling (PATAT), EURO working group on Data Science Meets Optimization, COnfiguration and SElection of ALgorithms group (COSEAL), and INFORMS group SpORts'
+
+inst: 'Member of the Department Council at the Department of Business Informatics and Operations Management of Ghent University'

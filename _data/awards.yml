@@ -1,0 +1,35 @@
+awards:
+  - title: "FWO Senior Postdoctoral Fellowship (3 years)"
+    venue: "Research Foundation - Flanders (FWO)"
+    url: "https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/senior-postdoctoral-fellowship/"
+    year: 2023
+  
+  - title: "Innovation Grant"
+    venue: "Ghent University"
+    for: "Innovative education project worth €8,000 to implement an educational game for the course Quality Management"
+    year: 2022
+
+  - title: "Best Teacher Recognition"
+    venue: "KU Leuven"
+    year: 2021
+    for: "For the course 'Production and Logistics management' at KU Leuven campus Brussels"
+
+  - title: "Case Competition Finalist"
+    venue: "INFORMS"
+    year: 2022
+    for: "Finalist for the 'Freestyle O.R. Supreme 2022 edition'"
+
+  - title: "FWO Junior Postdoctoral Fellowship (3 years)"
+    venue: "Research Foundation - Flanders (FWO)"
+    url: "https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/junior-postdoctoral-fellowship/"
+    year: 2020
+
+  - title: "Nominated for PhD Awards"
+    venue: "EOS Pipet Price and EURO EDDA award"
+    year: 2020
+    for: "Dissertation nominated by my doctoral jury"
+
+  - title: "Finalist for Master thesis award P&L"
+    venue: "Research Centre for Operations Research and Business Statistics (ORSTAT, KU Leuven)"
+    year: 2016
+    for: "Finalist for the Master thesis award P&L"
