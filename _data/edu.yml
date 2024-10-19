@@ -21,7 +21,7 @@ edu:
     programme: "Bachelor of Business Engineering"
     venue: "KU Leuven, Brussels"
     note: "3 out of 6 ECTS points, 26 teaching hours"
-    ects: [ "B-KUL-HBE06E", "https://onderwijsaanbod.kuleuven.be/2020/syllabi/n/HBN33AN.htm", 6 ] 
+    ects: [ "B-KUL-HBN33AN", "https://onderwijsaanbod.kuleuven.be/2020/syllabi/n/HBN33AN.htm", 6 ] 
 
   - year: "2020-2016"
     role: "Teaching Assistant"

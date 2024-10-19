@@ -7,6 +7,7 @@ pubs:
     venue: "European Journal of Operational Research"
     year: 2024
     bibtex: "vanbulck2024algorithm"
+    url: "https://doi.org/10.1016/j.ejor.2024.06.005"
 
   - id: "vanbulck2023multi"
     title: "Multi-Neighbourhood Simulated Annealing for the ITC-2007 Capacitated Examination Timetabling Problem"
@@ -14,6 +15,7 @@ pubs:
     venue: "Journal of Scheduling"
     year: 2023
     bibtex: "vanbulck2023multi"
+    url: "https://doi.org/10.1007/s10951-023-00799-1"
 
   - id: "vanbulck2023firstbreak"
     title: "First-break-heuristically-schedule: Constructing highly-constrained sports timetables"
@@ -21,6 +23,7 @@ pubs:
     venue: "Operations Research Letters"
     year: 2023
     bibtex: "vanbulck2023firstbreak"
+    url: "https://doi.org/10.1016/j.orl.2023.03.014"
 
   - id: "vanbulck2023benders"
     title: "A traditional Benders’ approach to sports timetabling"
@@ -28,6 +31,7 @@ pubs:
     venue: "European Journal of Operational Research"
     year: 2023
     bibtex: "vanbulck2023benders"
+    url: "https://doi.org/10.1016/j.ejor.2023.10.030"
 
   - id: "vanbulck2023itc"
     title: "The International Timetabling Competition on sports timetabling (ITC2021)"
@@ -36,6 +40,7 @@ pubs:
     year: 2023
     bibtex: "vanbulck2023itc"
     website: "https://robinxval.ugent.be/ITC2021/"
+    url: "https://doi.org/10.1016/j.ejor.2023.02.017"
 
   - id: "vanbulck2022resttimes"
     title: "Optimizing rest times and differences in games played: an iterative two-phase approach"
@@ -43,6 +48,7 @@ pubs:
     venue: "Journal of Scheduling"
     year: 2022
     bibtex: "vanbulck2022resttimes"
+    url: "https://doi.org/10.1007/s10951-021-00794-6"
 
   - id: "vanbulck2021relaxfix"
     title: "Relax-fix-optimize heuristics for time-relaxed sports timetabling"
@@ -50,6 +56,7 @@ pubs:
     venue: "INFOR: Information Systems and Operational Research"
     year: 2021
     bibtex: "vanbulck2021relaxfix"
+    url: "https://doi.org/10.1080/23301974.2021.1960824"
 
   - id: "vanbulck2023talent"
     title: "Result-based talent identification in road cycling: discovering the next Eddy Merckx"
@@ -57,6 +64,7 @@ pubs:
     venue: "Annals of Operations Research"
     year: 2023
     bibtex: "vanbulck2023talent"
+    url: "https://doi.org/10.1007/s10479-023-05018-2"
 
   - id: "vanbulck2021theoretical"
     title: "Sports timetabling: theoretical results and new insights in algorithm performance"
@@ -64,6 +72,7 @@ pubs:
     venue: "4OR - A Quarterly Journal of Operations Research"
     year: 2021
     bibtex: "vanbulck2021theoretical"
+    url: "https://doi.org/10.1007/s10288-021-00508-6"
 
   - id: "vanbulck2020robinx"
     title: "RobinX: a three-field classification and unified data format for round-robin sports timetabling"
@@ -73,6 +82,7 @@ pubs:
     bibtex: "vanbulck2020robinx"
     website: "https://robinxval.ugent.be/RobinX/"
     github: "https://github.com/Robin-X/RobinX"
+    url: "https://doi.org/10.1016/j.ejor.2020.04.023"
 
   - id: "vanbulck2020complexity"
     title: "On the complexity of pattern feasibility problems in time-relaxed sports timetabling"
@@ -80,6 +90,7 @@ pubs:
     venue: "Operations Research Letters"
     year: 2020
     bibtex: "vanbulck2020complexity"
+    url: "https://doi.org/10.1016/j.orl.2020.05.005"
 
   - id: "vanbulck2020repository"
     title: "An instance data repository for the round-robin sports timetabling problem"
@@ -87,6 +98,7 @@ pubs:
     venue: "Management and Labour Studies"
     year: 2020
     bibtex: "vanbulck2020repository"
+    url: "https://doi.org/10.1177/0258042X20912108"
 
   - id: "vanbulck2019fairness"
     title: "Handling fairness issues in time-relaxed tournaments with availability constraints"
@@ -94,6 +106,7 @@ pubs:
     venue: "Computers & Operations Research"
     year: 2019
     bibtex: "vanbulck2019fairness"
+    url: "https://doi.org/10.1016/j.cor.2019.05.007"
 
   - id: "vanbulck2019scheduling"
     title: "Scheduling a non-professional indoor football league: a tabu search based approach"
@@ -101,6 +114,7 @@ pubs:
     venue: "Annals of Operations Research"
     year: 2019
     bibtex: "vanbulck2019scheduling"
+    url: "https://doi.org/10.1007/s10479-019-03241-2"
 
   #######################  BOOKS ####################################
 
@@ -112,6 +126,7 @@ pubs:
     pages: "213-244"
     year: 2019
     bibtex: "goossens2019fairnesstradeoffs"
+    url: "https://www.cambridgescholars.com/product/978-1-5275-5856-4"
 
   #######################  CONFERENCES ####################################
 
@@ -121,6 +136,7 @@ pubs:
     venue: "Proceedings of the 14th International Conference on the Practice and Theory of Automated Timetabling"
     year: 2024
     bibtex: "garciatercero2024minimalfair"
+    url: "https://patatconference2024.dtu.dk/-/media/websites/patatconference2024/patat/patat-2024-proceedings.pdf"
 
   - id: "vanbulck2024invigilator"
     title: "The invigilator assignment problem"
@@ -128,6 +144,7 @@ pubs:
     venue: "Proceedings of the 14th International Conference on the Practice and Theory of Automated Timetabling"
     year: 2024
     bibtex: "verplancke2024invigilator"
+    url: "https://patatconference2024.dtu.dk/-/media/websites/patatconference2024/patat/patat-2024-proceedings.pdf"
 
   - id: "vanbulck2024sportstimetabling"
     title: "Sports timetabling: towards generic algorithms and performance insights"
@@ -135,6 +152,7 @@ pubs:
     venue: "Proceedings of the 14th International Conference on the Practice and Theory of Automated Timetabling"
     year: 2024
     bibtex: "vanbulck2024sportstimetabling"
+    url: "https://patatconference2024.dtu.dk/-/media/websites/patatconference2024/patat/patat-2024-proceedings.pdf"
 
   - id: "vanbulck2022multi"
     title: "Multi-neighbourhood Simulated Annealing for the Capacitated University Examination Timetabling Problem (ITC-2007)"
@@ -142,6 +160,7 @@ pubs:
     venue: "Proceedings of the 13th International Conference on the Practice and Theory of Automated Timetabling: Volume III"
     year: 2022
     bibtex: "vanbulck2022multi"
+    url: "https://patatconference.org/patat2022/proceedings/PATAT_2022_paper_02.pdf"
 
   - id: "vanbulck2022benders"
     title: "Using Benders’ cuts to backtrack in sports timetabling"
@@ -149,14 +168,16 @@ pubs:
     venue: "Proceedings of the 15th Workshop on Models and Algorithms for Planning and Scheduling Problems, MAPSP 2022"
     year: 2022
     bibtex: "vanbulck2022benders"
+    url: "https://mapsp2022.polito.it/Proceedings.pdf"
 
   - id: "goossens2022itc"
     title: "International Timetabling Competition 2021: Sports Timetabling"
-    author: [ 'Goossens, D.', 'Van Bulck, D.', 'Beliën, J.', 'Guajardo, M.' ]
+    author: [ 'Goossens, D.', 'Beliën, J.', 'Davari, M.', 'Van Bulck, D.'  ]
     venue: "Proceedings of the 13th International Conference on the Practice and Theory of Automated Timetabling: Volume III"
     year: 2022
     bibtex: "goossens2022itc"
     website: "https://robinxval.ugent.be/ITC2021/"
+    url: "https://patatconference.org/patat2022/proceedings/PATAT_2022_paper_26.pdf"
 
   - id: "vanbulck2021itc"
     title: "The fifth International Timetabling Competition (ITC 2021): sports timetabling"
@@ -165,6 +186,7 @@ pubs:
     year: 2021
     bibtex: "vanbulck2021itc"
     website: "https://robinxval.ugent.be/ITC2021/"
+    url: "https://mathsportinternational.com/MathSport2021Proceedings.pdf"
 
   - id: "vanbulck2020generalizing"
     title: "Generalizing first-break-then-schedule to time-relaxed sports timetabling"
@@ -172,6 +194,7 @@ pubs:
     venue: "Proceedings of the 13th International Conference on the Practice and Theory of Automated Timetabling - PATAT 2021: Volume I"
     year: 2020
     bibtex: "vanbulck2020generalizing"
+    url: "https://www.patatconference.org/patat2020/proceedings/papers/13.%20PATAT_2020_paper_33.pdf"
 
   - id: "vanbulck2018robinx"
     title: "RobinX: an XML driven classification for round-robin sports timetabling"
@@ -181,3 +204,5 @@ pubs:
     bibtex: "vanbulck2018robinx"
     website: "https://robinxval.ugent.be/RobinX/"
     github: "https://github.com/Robin-X/RobinX"
+    url: "https://www.patatconference.org/patat2018/files/proceedings/paper39.pdf"
+
