@@ -7,6 +7,7 @@ talks:
     month: "May, 24th"
     year: 2023
     type: "Invited Lecture"
+    no-slides: 1
 
   - id: "dalarna23"
     title: "Sports Timetabling"
@@ -16,6 +17,7 @@ talks:
     month: "May, 30th"
     year: 2023
     type: "Invited Lecture"
+    no-slides: 1
 
   - id: "udine22"
     title: "Benders' Decomposition"
