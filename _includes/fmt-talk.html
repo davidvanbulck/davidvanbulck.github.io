@@ -14,7 +14,7 @@
         <i class="fas fa-chalkboard-teacher" style="color:DimGray;"></i>
         <b>
              {% if p.no-slides %}
-	    {{p.title}}
+              <span class="pub-title">{{p.title}}</span>
 	    {% else %}
             <a class="pub-title" href={% if p.id %}"files/{{p.id}}.pdf"{% else %}"{{p.ext-id}}"{% endif %}>{{p.title}}</a>
             {% endif %}

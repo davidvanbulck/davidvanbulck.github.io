@@ -15,7 +15,7 @@
             {% if p.url %}
             <span style="font-weight: 500;"><a class="pub-title" href="{{p.url}}">{{p.title}}</a></span>
     	    {% else %}
-            <span style="font-weight: 500;">{{p.title}}</span>
+            <span class="pub-title", style="font-weight: 500;">{{p.title}}</span>
             {% endif %}
             <span style="font-size:0.9em;">
                 {%if p.for %}<br><em>{{p.for}}, </em>{% endif %}
