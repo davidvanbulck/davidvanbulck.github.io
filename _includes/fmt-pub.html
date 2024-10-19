@@ -20,7 +20,11 @@
         <div>
         <i class="far fa-file-pdf"></i>
         <b>
-            <a class="pub-title" href={% if p.id %}"files/{{p.id}}.pdf"{% else %}"{{p.ext-id}}"{% endif %}>{{p.title}}</a>
+            {% if p.url %}
+	    <a class="pub-title" href={{p.url}}>{{p.title}}</a>
+    	    {% else %}
+	    <span class="pub-title">{{p.title}}</span>
+	    {% endif %}
         </b>
         <br>
         {{p.author | join: ', ' | replace:'Van Bulck, D.','<b>Van Bulck, D.</b>' }}
