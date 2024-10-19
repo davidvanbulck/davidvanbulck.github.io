@@ -29,7 +29,7 @@ My main research interests are in the design and analysis of operations manageme
 {% include fmt-edu.html %}
 
 <a name="talks"></a>
-# Talks
+# Invited Talks
 
 {% include fmt-talk.html %}
 
