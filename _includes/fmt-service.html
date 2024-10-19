@@ -4,7 +4,7 @@
 
 <ul>
 <li>
-    <span style="font-weight: 500;">Program Co-Chair:</span> 
+    <span style="font-weight: 500;">Conference Organizer:</span> 
       {% for c in service.chair -%}
             {% assign years = "" | split: "" -%}
             {% for e in c.eds -%}
@@ -31,14 +31,14 @@
       </div>
 </li>
 <li>
-    <span style="font-weight: 500;">Technical Program Committee:</span>
+    <span style="font-weight: 500;">Conference Program Committee:</span>
     {% for c in service.pc %}
         {{ c.id }} ({{ c.years | join: ", " }})
         {%- if forloop.last -%}.{%  else -%}, {%  endif -%}
     {% endfor %}
 </li>
 <li>
-    <span style="font-weight: 500;">Journal Reviewer:</span>
+    <span style="font-weight: 500;">Invited Journal Reviews:</span>
     {{ service.journal }}.
 </li>
 <li>
