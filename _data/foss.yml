@@ -2,12 +2,6 @@ foss:
   - type: "Open Source"
     star: false
     repos:
-      - title: "RobinX: an XML-driven classification for round-robin sports timetabling"
-        url: "https://robinxval.ugent.be/RobinX/"
-        github: "https://github.com/Robin-X/RobinX"
-        role: "Founder, maintainer, and core developer"
-        paper: "https://doi.org/10.1016/j.ejor.2019.07.023"
-        label: "RobinX"
       - title: "Capacitated Examination Timetabling (CET): Solver Source Code for ITC-2007"
         url: "https://robinxval.ugent.be/RobinX/"
         github: "https://github.com/davidvanbulck/ITC-2007-CETT"
@@ -17,9 +11,6 @@ foss:
   
   - type: "Data set"
     repos:
-      - title: "Open benchmark of problem instances and best-known solutions in sports timetabling"
-        url: "https://www.robinx.ugent.be/"
-        role: "Maintainer; over the years, this website gained significant importance, especially after replacing the famous travelling tournament problem website hosted for over 20 years by former INFORMS president Prof. dr. Michael Trick"
       - title: "RobinX: an XML-driven classification for round-robin sports timetabling"
         url: "https://robinxval.ugent.be/RobinX/"
         github: "https://github.com/Robin-X/RobinX"
