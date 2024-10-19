@@ -4,7 +4,7 @@ talks:
     author: ['David Van Bulck']
     venue: "NHH Bergen"
     location: "Norway"
-    month: "TODO:month,day"
+    month: "May, 24th"
     year: 2023
     type: "Invited Lecture"
 
@@ -13,7 +13,7 @@ talks:
     author: ['David Van Bulck']
     venue: "Dalarna University"
     location: "Sweden"
-    month: "TODO:month,day"
+    month: "May, 30th"
     year: 2023
     type: "Invited Lecture"
 
@@ -21,7 +21,8 @@ talks:
     title: "Benders' Decomposition"
     author: ['David Van Bulck']
     venue: "University of Udine"
-    month: "TODO:month,day"
+    month: "June, 21st"
     year: 2022
     type: "Invited Lecture"
     location: "Italy"
+    no-slides:
