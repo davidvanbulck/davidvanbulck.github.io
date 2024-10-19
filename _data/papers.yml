@@ -114,7 +114,7 @@ pubs:
     venue: "Annals of Operations Research"
     year: 2019
     bibtex: "vanbulck2019scheduling"
-    url: "doi.org/10.1007/s10479-018-3013-x"
+    url: "https://doi.org/10.1007/s10479-018-3013-x"
 
   #######################  BOOKS ####################################
 
