@@ -31,7 +31,7 @@ pubs:
     venue: "European Journal of Operational Research"
     year: 2023
     bibtex: "vanbulck2023benders"
-    url: "https://doi.org/10.1016/j.ejor.2023.10.030"
+    url: "https://doi.org/10.1016/j.ejor.2022.10.044"
 
   - id: "vanbulck2023itc"
     title: "The International Timetabling Competition on sports timetabling (ITC2021)"
@@ -40,7 +40,7 @@ pubs:
     year: 2023
     bibtex: "vanbulck2023itc"
     website: "https://robinxval.ugent.be/ITC2021/"
-    url: "https://doi.org/10.1016/j.ejor.2023.02.017"
+    url: "https://doi.org/10.1016/j.ejor.2022.11.046"
 
   - id: "vanbulck2022resttimes"
     title: "Optimizing rest times and differences in games played: an iterative two-phase approach"
@@ -48,7 +48,7 @@ pubs:
     venue: "Journal of Scheduling"
     year: 2022
     bibtex: "vanbulck2022resttimes"
-    url: "https://doi.org/10.1007/s10951-021-00794-6"
+    url: "https://doi.org/10.1007/s10951-021-00717-3"
 
   - id: "vanbulck2021relaxfix"
     title: "Relax-fix-optimize heuristics for time-relaxed sports timetabling"
@@ -56,7 +56,7 @@ pubs:
     venue: "INFOR: Information Systems and Operational Research"
     year: 2021
     bibtex: "vanbulck2021relaxfix"
-    url: "https://doi.org/10.1080/23301974.2021.1960824"
+    url: "https://doi.org/10.1080/03155986.2021.1985902"
 
   - id: "vanbulck2023talent"
     title: "Result-based talent identification in road cycling: discovering the next Eddy Merckx"
@@ -64,7 +64,7 @@ pubs:
     venue: "Annals of Operations Research"
     year: 2023
     bibtex: "vanbulck2023talent"
-    url: "https://doi.org/10.1007/s10479-023-05018-2"
+    url: "https://doi.org/10.1007/s10479-021-04280-0"
 
   - id: "vanbulck2021theoretical"
     title: "Sports timetabling: theoretical results and new insights in algorithm performance"
@@ -72,7 +72,7 @@ pubs:
     venue: "4OR - A Quarterly Journal of Operations Research"
     year: 2021
     bibtex: "vanbulck2021theoretical"
-    url: "https://doi.org/10.1007/s10288-021-00508-6"
+    url: "https://doi.org/10.1007/s10288-020-00466-7"
 
   - id: "vanbulck2020robinx"
     title: "RobinX: a three-field classification and unified data format for round-robin sports timetabling"
@@ -82,7 +82,7 @@ pubs:
     bibtex: "vanbulck2020robinx"
     website: "https://robinxval.ugent.be/RobinX/"
     github: "https://github.com/Robin-X/RobinX"
-    url: "https://doi.org/10.1016/j.ejor.2020.04.023"
+    url: "https://doi.org/10.1016/j.ejor.2019.07.023"
 
   - id: "vanbulck2020complexity"
     title: "On the complexity of pattern feasibility problems in time-relaxed sports timetabling"
@@ -106,7 +106,7 @@ pubs:
     venue: "Computers & Operations Research"
     year: 2019
     bibtex: "vanbulck2019fairness"
-    url: "https://doi.org/10.1016/j.cor.2019.05.007"
+    url: "https://doi.org/10.1016/j.cor.2019.104856"
 
   - id: "vanbulck2019scheduling"
     title: "Scheduling a non-professional indoor football league: a tabu search based approach"
@@ -114,7 +114,7 @@ pubs:
     venue: "Annals of Operations Research"
     year: 2019
     bibtex: "vanbulck2019scheduling"
-    url: "https://doi.org/10.1007/s10479-019-03241-2"
+    url: "doi.org/10.1007/s10479-018-3013-x"
 
   #######################  BOOKS ####################################
 
