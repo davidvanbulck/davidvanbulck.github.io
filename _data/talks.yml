@@ -1,5 +1,15 @@
 talks:
   - id: "bergen23"
+    title: "Algorithm Benchmarking"
+    author: ['David Van Bulck']
+    venue: "IESEG Campus Paris"
+    location: "France"
+    month: "May, 16th"
+    year: 2025
+    type: "Invited Lecture"
+    no-slides: 1
+
+  - id: "bergen23"
     title: "Instance Space Analysis"
     author: ['David Van Bulck']
     venue: "NHH Bergen"

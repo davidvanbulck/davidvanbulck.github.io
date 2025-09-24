@@ -1,3 +1,10 @@
+seminar:
+  - id: 'Meet the Expert: Symmetry Handling in Mathematical Programming Solving'
+    long-name: 'Jasper van Doornmalen'
+    eds: [
+            [2025, 'https://www.orbel.be/news-letter-display.php?id=661'],
+         ]
+
 chair:
   - id: 'Fairness in Sports Workshop'
     long-name: '3th Fairness in Sports Workshop'

@@ -1,5 +1,35 @@
 pubs:
+  - id: "Garcia2025"
+    title: "Minimal and fair waiting times for single-day sports tournaments with multiple fields"
+    author: ['Garcia Tercero, L.', 'Van Bulck, D.', 'Nießen, F.', 'Goossens, D.']
+    venue: "Operations Research Letters"
+    year: 2025
+    bibtex: "GarciaTercero2025"
+    url: "https://doi.org/10.1016/j.orl.2025.107300"
 
+  - id: "vanbulck2025Rogaining"
+    title: "Designing a sports orienteering contest: physical versus cognitive skills in rogaining"
+    author: ['Van Bulck, D.', 'Pääkkönen, J.', 'Jacquet, B.', 'Goossens, D.']
+    venue: "International Transactions in Operational Research"
+    year: 2025
+    bibtex: "VanBulck2025"
+    url: "https://doi.org/10.1111/itor.13591"
+
+  - id: "Li2025"
+    title: "Beyond leagues: A single incomplete round robin tournament for multi-league sports timetabling"
+    author: ['Li, M.', 'Van Bulck, D.', 'Goossens, D.']
+    venue: "European Journal of Operational Research"
+    year: 2025
+    bibtex: "Li2025"
+    url: "https://doi.org/10.1016/j.ejor.2024.11.007"
+
+  - id: "vanbulck2023multi"
+    title: "Multi-Neighbourhood Simulated Annealing for the ITC-2007 Capacitated Examination Timetabling Problem"
+    author: [ 'Van Bulck, D.', 'Goossens, D.' ]
+    venue: "Journal of Scheduling"
+    year: 2025
+    bibtex: "vanbulck2023multi"
+    url: "https://doi.org/10.1007/s10951-023-00799-1"
 
   - id: "vanbulck2024algorithm"
     title: "Which algorithm to select in sports timetabling?"
@@ -8,14 +38,6 @@ pubs:
     year: 2024
     bibtex: "vanbulck2024algorithm"
     url: "https://doi.org/10.1016/j.ejor.2024.06.005"
-
-  - id: "vanbulck2023multi"
-    title: "Multi-Neighbourhood Simulated Annealing for the ITC-2007 Capacitated Examination Timetabling Problem"
-    author: [ 'Van Bulck, D.', 'Goossens, D.' ]
-    venue: "Journal of Scheduling"
-    year: 2023
-    bibtex: "vanbulck2023multi"
-    url: "https://doi.org/10.1007/s10951-023-00799-1"
 
   - id: "vanbulck2023firstbreak"
     title: "First-break-heuristically-schedule: Constructing highly-constrained sports timetables"

@@ -4,6 +4,32 @@
 
 <ul>
 <li>
+    <span style="font-weight: 500;">Seminar Organizer:</span> 
+      {% for c in service.seminar -%}
+            {% assign years = "" | split: "" -%}
+            {% for e in c.eds -%}
+              {%- assign years = years | push: e[0] -%}
+            {% endfor -%}
+            {{- c.long-name }} ({{- years | join: ", " -}})
+            {%- if forloop.last -%}.{%  else -%}, {%  endif -%}
+      {%- endfor %}
+      <div>
+        {% for c in service.seminar -%}
+          {%- for e in c.eds -%}
+            <a href="{{ e[1] }}">
+              <button class="ref-btn">
+              {%- if c.ico %}
+                  <img src="images/fosdem.ico" style="height:1em;">
+              {%- else %}
+                  <i class="fas fa-globe-europe" aria-hidden="true" style="color:#3793ae"></i>
+              {%- endif %}
+              {{ c.id }} {{ e[0] -}}
+              </button>
+            </a>
+          {%- endfor -%}
+        {%- endfor -%}
+      </div>
+
     <span style="font-weight: 500;">Conference Organizer:</span> 
       {% for c in service.chair -%}
             {% assign years = "" | split: "" -%}
