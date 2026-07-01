@@ -1,4 +1,29 @@
 pubs:
+
+  - id: "Koch2026"
+    title: "The Quantum Optimization Benchmarking Library"
+    author: ['Koch, T.', 'Bernal Neira, D.E.', 'Chen, Y.','...', 'Van Bulck, D.', 'Woerner, S.', 'Zoufal, C.']
+    venue: "Nature Computational Science"
+    year: 2026
+    bibtex: "Koch2026"
+    url: "https://doi.org/10.1038/s43588-026-00991-1"
+
+  - id: "Garcia2026"
+    title: "A multi-neighborhood hybrid approach for the integrated healthcare timetabling competition 2024"
+    author: ['Garcia Tercero, L.', 'Van Bulck, D.', 'Devriesere, K.' 'Bakker, S.', 'Goossens, D.']
+    venue: "Computers & Operations Research"
+    year: 2026
+    bibtex: "GarciaTercero2026"
+    url: "https://doi.org/10.1016/j.cor.2026.107453"
+
+  - id: "Verplacke2026"
+    title: "The (a)soical exam invigilator assignment problem"
+    author: ['Verplacke, H.', 'Van Bulck, D.', 'Lim\`ere, V.', 'Schmid, N.A.']
+    venue: "Journal of Scheduling"
+    year: 2026
+    bibtex: "Verplancke2026"
+    url: "https://doi.org/10.1007/s10951-025-00868-7"
+
   - id: "Garcia2025"
     title: "Minimal and fair waiting times for single-day sports tournaments with multiple fields"
     author: ['Garcia Tercero, L.', 'Van Bulck, D.', 'Nießen, F.', 'Goossens, D.']
