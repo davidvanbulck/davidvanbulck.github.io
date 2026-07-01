@@ -1,5 +1,15 @@
 talks:
-  - id: "bergen23"
+  - id: "caps2026"
+    title: "Sports Analytics"
+    author: ['David Van Bulck']
+    venue: "CAPS conference"
+    location: "Belgium"
+    month: "Nov, 14th"
+    year: 2026
+    type: "Invited Lecture"
+    no-slides: 1
+
+  - id: "ieseg25"
     title: "Algorithm Benchmarking"
     author: ['David Van Bulck']
     venue: "IESEG Campus Paris"

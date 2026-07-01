@@ -2,6 +2,15 @@ foss:
   - type: "Open Source"
     star: false
     repos:
+      - title: "Integrated Healthcare Timetabling: Solver Source Code for IHTC2024"
+        github: "https://github.com/davidvanbulck/IHTC2024_Multi_Neighborhood_Hybrid.git"
+        role: "Co-Founder, maintainer, and core co-developer"
+        paper: "https://doi.org/10.1016/j.cor.2026.107453"
+        label: "IHTC"
+
+   - type: "Open Source"
+    star: false
+    repos:
       - title: "Capacitated Examination Timetabling (CET): Solver Source Code for ITC-2007"
         url: "https://robinxval.ugent.be/RobinX/"
         github: "https://github.com/davidvanbulck/ITC-2007-CETT"

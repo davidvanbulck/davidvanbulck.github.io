@@ -10,7 +10,7 @@ pubs:
 
   - id: "Garcia2026"
     title: "A multi-neighborhood hybrid approach for the integrated healthcare timetabling competition 2024"
-    author: ['Garcia Tercero, L.', 'Van Bulck, D.', 'Devriesere, K.' 'Bakker, S.', 'Goossens, D.']
+    author: ['Garcia Tercero, L.', 'Van Bulck, D.', 'Devriesere, K.', 'Bakker, S.', 'Goossens, D.']
     venue: "Computers & Operations Research"
     year: 2026
     bibtex: "GarciaTercero2026"
